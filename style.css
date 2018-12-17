@@ -11,3 +11,7 @@
  Tags:         impresario
  Text Domain:  impresario-theme
 */
+
+.login h1 a {
+    background-image: url('./assets/images/logo.svg');
+}
